@@ -1,0 +1,22 @@
+
+ body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+    background-color: #014122;
+    color:#eeb531 ;        
+}
+.btn{
+    margin: 5px;
+    padding: 5px 10px;
+}
+button{
+    color:#eeb531 ;        
+    background-color: #014122;
+    border: 1px solid #87BBD7;
+}
+
+    
